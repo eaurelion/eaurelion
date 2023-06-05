@@ -1,6 +1,5 @@
-# Pavel Kalugin
 
-21school (Ecole 42) student.
+21-school (Ecole 42) student.
 Java developer.
 Philanthropist.
 
